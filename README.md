@@ -15,13 +15,14 @@ Our LMS is a comprehensive platform that facilitates the management and delivery
 Our HRMS is crafted to simplify and automate HR processes. From managing employee records and payroll to tracking attendance and performance, our HRMS helps HR professionals focus on what they do best – managing people.
 
 ### Our Values
-Innovation: We continuously strive to innovate and improve our products to meet the evolving needs of our clients.
-Quality: Quality is at the forefront of everything we do. We are committed to delivering reliable and high-performing software solutions.
-Customer Focus: Our clients are our top priority. We work closely with them to understand their challenges and provide solutions that drive success.
-Integrity: We conduct our business with the highest standards of integrity and transparency.
-Why Choose Us?
-Expertise: With years of experience in the software industry, our team of experts is well-equipped to deliver solutions that make a difference.
-Support: We offer comprehensive support to ensure our clients get the most out of our products.
-Customization: We understand that every business is unique. That’s why we offer customizable solutions to meet your specific needs.
+- **Innovation:** We continuously strive to innovate and improve our products to meet the evolving needs of our clients.
+- **Quality:** Quality is at the forefront of everything we do. We are committed to delivering reliable and high-performing software solutions.
+- **Customer Focus:** Our clients are our top priority. We work closely with them to understand their challenges and provide solutions that drive success.
+- **Integrity:** We conduct our business with the highest standards of integrity and transparency.
+
+### Why Choose Us?
+- **Expertise:** With years of experience in the software industry, our team of experts is well-equipped to deliver solutions that make a difference.
+- **Support:** We offer comprehensive support to ensure our clients get the most out of our products.
+- **Customization:** We understand that every business is unique. That’s why we offer customizable solutions to meet your specific needs.
 
 Thank you for choosing Wargoo Digital. We look forward to working with you and helping your business thrive.
